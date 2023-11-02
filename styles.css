@@ -12,6 +12,12 @@ ul, ol, h3, p{
     max-width: 50%; /* or any other percentage or fixed value */
     margin: auto; /* centers the block if it has a width less than 100% */
     margin-bottom: 20px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h3 {
+    font-family: 'Brush Script MT', cursive;
+    font-size: 30px;
 }
 
 img {
@@ -23,6 +29,8 @@ img {
 h1 {
     align-items: center;
     text-align: center;
+    font-family: 'Brush Script MT', cursive;
+    font-size: 50px;
 }
 
 .home {
